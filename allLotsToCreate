@@ -1,4 +1,4 @@
-let allProductsToCreate = [
+[
   { productCode: "10.11.11.120-00001", productName: "Мясо телячье" },
   { productCode: "10.11.12.110-00001", productName: "Мясо домашних свиней" },
   { productCode: "10.11.12.120-00001", productName: "Мясо диких свиней" },
